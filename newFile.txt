@@ -1,1 +1,2 @@
 updated version of newFile.txt
+Adding new text to verify in testBranch
